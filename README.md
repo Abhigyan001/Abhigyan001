@@ -2,11 +2,11 @@
 
 Hi, I'm [Abhigyan Mahanta](https://abhigyan.rocks/), a Full Stack Developer 🚀 from Guwahati, India. Currently, I'm a student at Microverse and further honing my React and RoR skills. Besides programming, I like to read fiction novels and play simulation games.
   
-**Talking about Personal Stuffs:**
+**What I have been upto recently:**
 
 - 👨🏽‍💻 I’m currently working on a React project :wink:; visit my [portfolio](https://abhigyan.rocks/) to checkout my other projects;
 - 🌱 I also blog regarding web hosts and increasing traffic to website. Check out my blog [here](https://blogsepaise.com/); 
-- 💬 Ask me about website set-up and design, I am happy to help;
+- 💬 Ask me about website set-up and design, I am happy to help.
 
 <h3>Things I code with</h3>
 <p>
