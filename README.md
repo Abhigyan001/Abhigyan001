@@ -1,16 +1,36 @@
-### Hi there 👋
+<h2>Hello, It's nice to meet you.</h2>
 
-<!--
-**Abhigyan001/Abhigyan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm [Abhigyan Mahanta](https://abhigyan.rocks/), a Full Stack Developer 🚀 from Guwahati, India. Currently, I'm a student at Microverse and further honing my React and RoR skills. Besides programming, I like to read fiction novels and play simulation games.
+  
+**Talking about Personal Stuffs:**
 
-Here are some ideas to get you started:
+- 👨🏽‍💻 I’m currently working on a React project :wink:; visit my [portfolio](https://abhigyan.rocks/) to checkout my other projects;
+- 🌱 I also blog regarding web hosts and increasing traffic to website. Check out my blog [here](https://blogsepaise.com/); 
+- 💬 Ask me about website set-up and design, I am happy to help;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Things I code with</h3>
+<p>
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-430098?style=flat-square&logo=ruby&logoColor=white" />
+  <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Rails-45b8d8?style=flat-square&logo=ruby&logoColor=white" />
+  <img alt="Api" src="https://img.shields.io/badge/-API-F7B93E?style=flat-square&logo=api&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-8DD6F9?style=flat-square&logo=react&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Expressjs" src="https://img.shields.io/badge/-Expressjs-CB3837?style=flat-square&logo=Express.js&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-43853d?style=flat-square&logo=eslint&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+</p>
+
+[![Abhigyan Mahanta's github stats](https://github-readme-stats.vercel.app/api?username=Abhigyan001&show_icons=true&theme=radical)](https://github.com/acushlakoncept/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhigyan001&show_icons=true&theme=radical&layout=compact)](https://github.com/Abhigyan001/github-readme-stats)
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/Abhigyan001" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/abhigyan_001" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abhigyan001" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
