@@ -1,6 +1,6 @@
 <h2>Hello, It's nice to meet you.</h2>
 
-Hi, I'm [Abhigyan Mahanta](https://abhigyan.rocks/), a Full Stack Developer 🚀 from Guwahati, India. Currently, I'm a student at Microverse and further honing my React and RoR skills. Besides programming, I like to read fiction novels and play simulation games.
+Hi, I'm [Abhigyan Mahanta](https://abhigyan.rocks/), a Full Stack Developer 🚀 from Guwahati, India. Currently, I've graduated as a Full-Stack Developer from Microverse and currently looking to join an awesome company that supports remote work culture. Besides programming, I like to read fiction novels and play simulation games.
   
 **What I have been upto recently:**
 
