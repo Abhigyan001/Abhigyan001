@@ -4,8 +4,8 @@ Hi, I'm [Abhigyan Mahanta](https://abhigyan.rocks/), a Full Stack Developer 🚀
   
 **What I have been upto recently:**
 
-- 👨🏽‍💻 I’m currently working on a React project :wink:; visit my [portfolio](https://abhigyan.rocks/) to checkout my other projects;
-- 🌱 I also blog regarding web hosts and increasing traffic to website. Check out my blog [here](https://blogsepaise.com/); 
+- 👨🏽‍💻 I’m currently working as a Full Stack Developer at Catprint :wink:; visit my [portfolio](https://abhigyan.rocks/) to checkout my other projects;
+- 🌱 I also blog about companies that offers remote jobs in various departments. Check out my blog [here](https://jobsatremote.com/); 
 - 💬 Ask me about website set-up and design, I am happy to help.
 
 <h3>Things I code with</h3>
