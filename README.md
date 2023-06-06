@@ -1,7 +1,7 @@
 <h2>Hello, It's nice to meet you.</h2>
 
 Hi, I'm [Abhigyan Mahanta](https://abhigyanmahanta.netlify.app/), a Full Stack Developer from Guwahati, India. 
-<br />
+<br /><br />
 I'm a Full-Stack graduate from Microverse and have joined Catprint as a Ruby on Rails Developer. Besides programming, I like to read fiction novels and play simulation games.
   
 **What I have been upto recently:**
