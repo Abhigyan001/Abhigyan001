@@ -1,14 +1,13 @@
 <h2>Hello, It's nice to meet you.</h2>
 
-Hi, I'm [Abhigyan Mahanta](https://abhigyanmahanta.netlify.app/), a Full Stack Developer from Guwahati, India. 
+Hi, I'm [Abhigyan Mahanta](https://abhigyanmahanta.netlify.app/), a Ruby on Rails Developer from Guwahati, India. 
 <br /><br />
 I'm a Full-Stack graduate from Microverse and have joined Catprint as a Ruby on Rails Developer. Besides programming, I like to read fiction novels and play simulation games.
   
 **What I have been upto recently:**
 
-- 👨🏽‍💻 I’m currently working as a Ruby on Rails Developer at Catprint; visit my [portfolio](https://abhigyanmahanta.netlify.app/) to checkout my other projects;
-- 🌱 I also blog about companies that offers remote jobs in various departments. Check out my blog [here](https://jobsatremote.com/); 
-- 💬 Ask me about website set-up and design, I am happy to help.
+- 👨🏽‍💻 I’m currently working as a Ruby on Rails Developer at Catprint; visit my [portfolio](https://abhigyanmahanta.netlify.app/) to check out my other projects;
+- 🌱 I also blog about affiliate programs plus tips to become a successful affiliate. Check out my blog [here](https://blogsepaise.com/); 
 
 <h3>Things I code with</h3>
 <p>
