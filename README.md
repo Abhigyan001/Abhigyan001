@@ -4,9 +4,9 @@ Hi, I'm [Abhigyan Mahanta](https://abhigyanmahanta.netlify.app/), a Frontend Dev
 <br /><br />
 I'm a Full-Stack graduate from Microverse and have joined Catprint as a Frontend Developer. Besides programming, I like to read fiction novels and play simulation games.
   
-**What I have been upto recently:**
+**What I have been up to recently:**
 
-- 👨🏽‍💻 I’m currently working as a Ruby on Rails Developer at Catprint; visit my [portfolio](https://abhigyanmahanta.netlify.app/) to check out my other projects;
+- 👨🏽‍💻 I’m currently working as a Frontend Developer at Catprint; visit my [portfolio](https://abhigyan.us.to/) to check out my other projects;
 - 🌱 I also blog about affiliate programs plus tips to become a successful affiliate. Check out my blog [here](https://blogsepaise.com/); 
 
 <h3>Things I code with</h3>
