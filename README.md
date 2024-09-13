@@ -6,7 +6,7 @@ I'm a Full-Stack graduate from Microverse and have joined Catprint as a Frontend
   
 **What I have been up to recently:**
 
-- 👨🏽‍💻 I’m currently working as a Frontend Developer at Catprint; visit my [portfolio](https://abhigyan.us.to/) to check out my other projects;
+- 👨🏽‍💻 I’m currently working as a Ruby On Rails Developer at Catprint; visit my [portfolio](https://abhigyan.us.to/) to check out my other projects;
 - 🌱 I also blog about affiliate programs plus tips to become a successful affiliate. Check out my blog [here](https://blogsepaise.com/); 
 
 <h3>Things I code with</h3>
