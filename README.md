@@ -1,6 +1,6 @@
 <h2>Hello, It's nice to meet you.</h2>
 
-Hi, I'm [Abhigyan Mahanta](https://abhigyanmahanta.netlify.app/), a Ruby On Rails Developer from Guwahati, India. 
+Hi, I'm [Abhigyan Mahanta](https://abhigyanmahanta.netlify.app/), a Frontend Developer from Guwahati, India. 
 <br /><br />
 I'm a Full-Stack graduate from Microverse and have joined Catprint as a Ruby On Rails Developer. Besides programming, I like to read fiction novels and play simulation games.
   
