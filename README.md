@@ -2,7 +2,7 @@
 
 Hi, I'm [Abhigyan Mahanta](https://abhigyanmahanta.netlify.app/), a Frontend Developer from Guwahati, India. 
 <br /><br />
-I'm a Full-Stack graduate from Microverse and have joined Catprint as a Ruby On Rails Developer. Besides programming, I like to read fiction novels and play simulation games.
+I'm a Full-Stack graduate from Microverse and have joined Novatro as a Software Developer. Besides programming, I like to read fiction novels and play simulation games.
   
 **What I have been up to recently:**
 
