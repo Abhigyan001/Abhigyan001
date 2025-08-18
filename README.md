@@ -1,6 +1,6 @@
 <h2>Hello, It's nice to meet you.</h2>
 
-Hi, I'm [Abhigyan Mahanta](https://abhigyanmahanta.netlify.app/), a Software Developer from Guwahati, India. 
+Hi, I'm [Abhigyan Mahanta](https://abhigyan.us.to/), a Software Developer from Guwahati, India. 
 <br /><br />
 I'm a Full-Stack graduate from Microverse and have joined Novatro as a Software Developer. Besides programming, I like to read fiction novels and play simulation games.
   
